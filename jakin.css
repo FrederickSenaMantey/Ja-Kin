@@ -1,0 +1,42 @@
+*{
+  padding: 0;
+  margin: 50px;
+  box-sizing: border-box;
+}
+
+#gamesetup{
+  color: black;
+  font: "Times New Roman";
+  background: #0000004D;
+  margin: 20.4px;
+  padding: 10px;
+}
+
+
+body {
+    background-image: url("OIP.jpg");
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+#bgcenter{
+    position: center;
+    padding: center;
+    
+}
+
+button{
+  position: relative;
+  color: black;
+  display: inline;
+  background: Gold;
+  margin: 50px 0px;
+  padding: 8px 30px;
+  border-radius: 25px;
+  transition: 0.5s;
+  text-decoration: none;
+}
